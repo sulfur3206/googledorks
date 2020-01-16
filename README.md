@@ -3,6 +3,8 @@ A couple of quick google dorks you can use, based off of a nullbyte article: htt
 
 DISCLAIMER: Use all of these for legal purposes, I am in no way advising you to commit any crime and anything you do with this information is 100% your responsibility and is in no way connected to me.
 
+All you need for these following commands is an internet connection and a google chrome browser, imput the following text into the search bar, fill in the YEAR requirement (if there is one), and press enter.
+
 For *YEAR* put in the prior year, Ex.: if you wanted to find something from 2020 the year you would put in would be 2019
 
 
