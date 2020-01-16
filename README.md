@@ -5,6 +5,8 @@ DISCLAIMER: Use all of these for legal purposes, I am in no way advising you to 
 
 All you need for these following commands is an internet connection and a google chrome browser, imput the following text into the search bar, fill in the YEAR requirement (if there is one), and press enter.
 
+Also, for all of these examples you can use after:*YEAR* to find the results with the year. This can also be used in regular search. 
+
 For *YEAR* put in the prior year, Ex.: if you wanted to find something from 2020 the year you would put in would be 2019
 
 
