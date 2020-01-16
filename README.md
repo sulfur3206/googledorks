@@ -20,3 +20,7 @@ inurl:top.htm inurl:currenttime //find open cameras
 
 inurl:"lvappl.htm" //another way to find open cameras 
 
+This scrapes the surface: I don't know much about google dorks: but here are some more from what I think is a credible source:
+
+https://gbhackers.com/latest-google-dorks-list/
+
