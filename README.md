@@ -26,3 +26,4 @@ This scrapes the surface: I don't know much about google dorks: but here are som
 
 https://gbhackers.com/latest-google-dorks-list/
 
+Feel free to fork this and add to it, if what you add works I can add it to the list.
